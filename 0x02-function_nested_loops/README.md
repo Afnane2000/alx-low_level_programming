@@ -1,1 +1,2 @@
-0x02 function nested loops
+0x02 function nested loops 
+o_putchar
